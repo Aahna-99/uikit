@@ -1,0 +1,17 @@
+export const HomeLocales = {
+    rank: 'Rank',
+    points: 'Points',
+    badges: 'Badges',
+    logout: 'Logout',
+    logout_message: 'Are you sure you want to logout?',
+    logout_success: 'Sign Out successful',
+    cancel: 'Cancel',
+    view_more: 'View More',
+    about_placeholder: `You haven't added information about yourself.`,
+    interests_placeholder: `You haven't added your interests yet.`,
+    education_placeholder: `You haven't added information about yourself.`,
+    linkedin_placeholder: `You haven't added information about Linkedin Profile.`,
+    twitter_placeholder: `You haven't added information about Twitter Handle.`,
+    copied_message: `Copied Successfully`,
+    empty_team: `You don't have any Manager/Reportees yet.`,
+};
